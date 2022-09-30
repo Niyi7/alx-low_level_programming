@@ -1,6 +1,10 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
-
+#ifndef MAIN_H
+#define MAIN_H
+/**
+ * File: main
+ *
+ *Desc: header file
+ */
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
